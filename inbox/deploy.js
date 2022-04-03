@@ -1,1 +1,1 @@
-// deploy code will go here
+const HDWalletProvider = require('@truffle/hdwallet-provider');
